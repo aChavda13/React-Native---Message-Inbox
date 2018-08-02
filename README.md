@@ -1,4 +1,4 @@
-# React Native - Message Box (UI)
+# React Native - Message Inbox (UI)
 
 ## My First Mobile App project (React Native + Redux)
 
